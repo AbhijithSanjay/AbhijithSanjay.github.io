@@ -1,10 +1,9 @@
----
 
 # My Personal Webpage 🌟  
 
 This repository contains the code for the **first webpage** I created! It’s a simple yet personal introduction that showcases who I am and provides links to my social media profiles.  
 
-🌐 **Live Demo**: [View My Webpage](abhijithsanjay.github.io/)  
+🌐 **Live Demo**: [View My Webpage](https://abhijithsanjay.github.io/)  
 
 ---
 
@@ -24,14 +23,14 @@ This repository contains the code for the **first webpage** I created! It’s a 
 ## 💻 Tech Stack  
 
 - **HTML5**: The foundation of the webpage.  
-- **CSS3** : For styling the page .  
+- **CSS3**: For styling the page.  
 
 ---
 
 ## 🚀 How to View  
 
 ### Online  
-Visit the live demo: [My Webpage](abhijithsanjay.github.io/)  
+Visit the live demo: [My Webpage](https://abhijithsanjay.github.io/)  
 
 ### Locally  
 1. Clone this repository:  
@@ -72,7 +71,7 @@ You can update this webpage by:
 ## 🌟 Support  
 
 If you like this webpage or have suggestions, feel free to reach out:  
-**Email**: abhijithsanjay@gmail.com 
+**Email**: "abhijithsanjay@gmail.com"  
 
 Let’s connect! 😊  
 
